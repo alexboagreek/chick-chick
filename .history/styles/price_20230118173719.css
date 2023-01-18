@@ -1,0 +1,59 @@
+.price {
+    padding: 62px 0;
+}
+
+.price__title {
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 0 0 16px;
+}
+
+.price__tagline {
+    margin: 0 0 40px;
+}
+
+.price__wrapper-content {
+    display: flex;
+    gap: 32px;
+}
+
+.price__wrapper-content:before {
+    content: '';
+    flex-basis: 50%;
+    background-image: url('../assets/img/barber.jpg');
+    background-position: top;
+    background-size: cover;
+}
+
+.price__content {
+    flex-basis: 50%;
+}
+
+.price__list {
+    padding: 0;
+    margin: 0 0 62px;
+    list-style: none;
+}
+
+.price__item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 1;
+    text-transform: uppercase;
+    padding-bottom: 7px;
+    
+}
+
+@media (max-width: 768px) {
+    .price {
+        padding: 62px 0;
+    }
+}
+
+@media (max-width: 560px) {
+    .price {
+        padding: 62px 0;
+    }
+}

@@ -1,0 +1,26 @@
+.price {
+    padding: 62px 0;
+}
+
+.price__title {
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+.price__tagline {
+    margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+    .price {
+        padding: 62px 0;
+    }
+}
+
+@media (max-width: 560px) {
+    .price {
+        padding: 62px 0;
+    }
+}

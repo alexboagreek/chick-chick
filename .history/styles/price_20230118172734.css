@@ -1,0 +1,36 @@
+.price {
+    padding: 62px 0;
+}
+
+.price__title {
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 0 0 16px;
+}
+
+.price__tagline {
+    margin: 0 0 40px;
+}
+
+.price__wrapper-content {
+    display: flex;
+    gap: 32px;
+}
+
+.price__wrapper-content:before {
+    content: '';
+    
+}
+
+@media (max-width: 768px) {
+    .price {
+        padding: 62px 0;
+    }
+}
+
+@media (max-width: 560px) {
+    .price {
+        padding: 62px 0;
+    }
+}

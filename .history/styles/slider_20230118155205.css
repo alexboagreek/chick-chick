@@ -1,0 +1,22 @@
+.slider {
+    overflow: hidden;
+    position: relative;
+}
+
+.slider__container {
+    /*display: none;*/
+}
+.slider__list {
+    display: flex;
+    list-style: none;
+}
+.slider__item {
+}
+.slider__img {
+}
+.slider__arrow {
+}
+.slider__arrow_left {
+}
+.slider__arrow-right {
+}

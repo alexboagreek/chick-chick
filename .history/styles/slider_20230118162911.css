@@ -1,0 +1,41 @@
+.slider {
+    overflow: hidden;
+    position: relative;
+}
+
+.slider__container {
+    /*display: none;*/
+}
+
+.slider__list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0 -16px;
+}
+
+.slider__item {
+    padding: 0 16px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 25%;
+}
+
+.slider__item_active {
+    max-width: 50%;
+}
+
+.slider__arrow {
+    position: absolute;
+    bottom: 30%;
+    height: 8px;
+    background-color: transparent;
+}
+
+.slider__arrow_left {
+    left: 8%;
+}
+
+.slider__arrow-right {
+    right: 8%;
+}

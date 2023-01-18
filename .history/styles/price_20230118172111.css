@@ -1,0 +1,15 @@
+.price {
+    padding: 62px 0;
+}
+
+@media (max-width: 768px) {
+    .price {
+        padding: 62px 0;
+    }
+}
+
+@media (max-width: 560px) {
+    .price {
+        padding: 62px 0;
+    }
+}
