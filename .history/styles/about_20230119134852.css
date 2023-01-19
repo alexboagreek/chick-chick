@@ -1,0 +1,23 @@
+.about {
+    padding: 62px 0;
+}
+
+.about__title {
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+    max-width: 700px;
+    margin-bottom: 0 0 24px;
+}
+.about__description {
+    line-height: 1.5;
+    max-width: 700px;
+}
+.about__list {
+}
+.about__item {
+}
+.about__item-title {
+}
+.about__item-description {
+}

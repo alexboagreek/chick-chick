@@ -1,0 +1,16 @@
+.radio__input {
+    position: absolute;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.radio__label {
+    display: inline-block;
+    padding: 16px 24px;
+    font-size: 14px;
+    l
+}
+
+.radio__label_spec {
+}

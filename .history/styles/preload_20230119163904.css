@@ -1,0 +1,12 @@
+.preload {
+    position: relative;
+}
+
+.preload:after {
+    content: '';
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 50%;
+    
+}

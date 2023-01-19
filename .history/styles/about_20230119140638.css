@@ -1,0 +1,47 @@
+.about {
+    padding: 62px 0;
+}
+
+.about__title {
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+    max-width: 700px;
+    margin-bottom: 0 0 24px;
+}
+
+.about__description {
+    line-height: 1.5;
+    max-width: 700px;
+    margin: 0 0 72px;
+}
+
+.about__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 384px);
+    gap: 24px 32px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.about__item {
+    paddong 6
+}
+
+.about__item_top {
+    background-image: url('../assets/icons/icon_1.svg');
+}
+
+.about__item_barber {
+    background-image: url('../assets/icons/icon_2.svg');
+}
+
+.about__item_pro {
+    background-image: url('../assets/icons/icon_3.svg');
+}
+
+.about__item-title {
+}
+.about__item-description {
+}

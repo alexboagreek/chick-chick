@@ -1,0 +1,15 @@
+.preload {
+    position: relative;
+}
+
+.preload:after {
+    content: '';
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: calc(50% - 28px);
+    left: calc(50% - 28px);
+    border: 11px double  #F6F3E3;
+    bor
+
+}

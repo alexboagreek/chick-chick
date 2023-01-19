@@ -1,0 +1,12 @@
+.radio__input {
+    position: relative;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.radio__label {
+}
+
+.radio__label_spec {
+}
